@@ -18,3 +18,7 @@ Currently only supports Mac OS X.
 
 [screenshot](https://postimg.cc/Ppt8VCfd)
 [screenshot](https://postimg.cc/bGvh68XK)
+
+<div align="center">
+    <img src="https://postimg.cc/bGvh68XK" width="400px"</img> 
+</div>
