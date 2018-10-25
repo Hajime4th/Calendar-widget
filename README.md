@@ -10,5 +10,7 @@ Currently only supports Mac OS X.
 **Make a new icon because the current is the android lollipop one.**
 
 **Package the app for easier installation.**
+
+# Installation
            
 
