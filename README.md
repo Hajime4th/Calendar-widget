@@ -4,9 +4,9 @@
 
 Currently only supports Mac OS X.
 
-To do list: 
-Add support for linux and windows.
-Make a new icon because the current is the android lollipop one.
-Package the app for easier installation.
+# To do list: 
+**Add support for linux and windows.**
+**Make a new icon because the current is the android lollipop one.**
+**Package the app for easier installation.**
            
 
