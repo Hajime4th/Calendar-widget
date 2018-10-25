@@ -16,5 +16,5 @@ Currently only supports Mac OS X.
 
 # Screenshots
 
-[image](https://postimg.cc/Ppt8VCfd)
-[image](https://postimg.cc/bGvh68XK)
+[screenshot](https://postimg.cc/Ppt8VCfd)
+[screenshot](https://postimg.cc/bGvh68XK)
