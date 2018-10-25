@@ -14,3 +14,7 @@ Currently only supports Mac OS X.
 # Installation
            
 
+# Screenshots
+
+[image](https://postimg.cc/Ppt8VCfd
+[image](https://postimg.cc/bGvh68XK
