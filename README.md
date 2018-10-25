@@ -17,5 +17,5 @@ Currently only supports Mac OS X.
 # Screenshots
 
 <div align="center">
-    <img src="https://postimg.cc/bGvh68XK" width="400px"</img> 
+    <img src="/screenshot1.png" width="400px"</img> 
 </div>
