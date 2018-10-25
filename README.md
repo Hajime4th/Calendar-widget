@@ -16,6 +16,5 @@ Currently only supports Mac OS X.
 
 # Screenshots
 
-<div align="center">
-    <img src="/screenshot1.png" width="400px"</img> 
-</div>
+![screenshot1](https://user-images.githubusercontent.com/42915482/47514613-80556780-d889-11e8-8052-5048a3636ef3.png)
+![screenshot2](https://user-images.githubusercontent.com/42915482/47514647-96632800-d889-11e8-97c2-a764a57cc294.png)
