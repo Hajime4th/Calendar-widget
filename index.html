@@ -1,19 +1,59 @@
 <!DOCTYPE html>
+<meta content=’width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0′ name=’viewport’ />
+<meta name=”viewport” content=”width=device-width” />
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>Calculator</title>
   </head>
-  <body>
-    <h1>Hello World!</h1>
-    <!-- All of the Node.js APIs are available in this renderer process. -->
-    We are using Node.js <script>document.write(process.versions.node)</script>,
-    Chromium <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
+<script>
+const electron = require('electron'); // Include electron
+electron.webFrame.setZoomLevelLimits(1, 1); // Set min max zoom level as 1
+const { ipcRenderer } = electron;
+</script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" type="text/css">
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+  <style>
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  user-select: none;
+}
+#caption {
+        background-color: #aaffee;
+        height: 100px;
+        -webkit-app-region: drag;
+      }
 
+body {
+  background-color: white;
+}
+</style>
+  <body>
+
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+
+<div class="calendar">
+	<div class="header">
+		<a data-action="prev-month" href="javascript:void(0)" title="Previous Month"><i></i></a>
+		<div class="text" data-render="month-year"></div>
+		<a data-action="next-month" href="javascript:void(0)" title="Next Month"><i></i></a>
+	</div>
+	<div class="months" data-flow="left">
+		<div class="month month-a">
+			<div class="render render-a"></div>
+		</div>
+		<div class="month month-b">
+			<div class="render render-b"></div>
+		</div>
+	</div>
+</div>
     <script>
       // You can also require other files to run in this process
       require('./renderer.js')
     </script>
+    <script type="text/javascript" src="./js/calendar.js"></script>
   </body>
 </html>
