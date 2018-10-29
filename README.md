@@ -1,15 +1,10 @@
-# Calendar
+# Calendar Widget
 
-**A minimal calendar widget by Hajime. Based on the code of Mohan Khadka. Made using electron.**
-
-Currently only supports Mac OS X.
+**The same calendar you love only as a widget.**
 
 ## To do list: 
-**Add support for linux and windows.**
 
 **Make a new icon because the current is the android lollipop one.**
-
-**Package the app for easier installation.**
 
 ## Installation
 
