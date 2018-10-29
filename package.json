@@ -1,21 +1,18 @@
 {
-    "name": "Calendar",
+    "name": "Calendar-Widget",
     "version": "1.0.0",
     "description": "",
     "main": "main.js",
     "scripts": {
         "start": "electron .",
-        "pack": "build --dir",
+        "pack": "npx electron-builder --dir",
         "electron-toolkit": "electron ./node_modules/electron-toolkit",
-        "dist": "build",
-    "pack": "npx electron-builder --dir",
-    "dist": "npx electron-builder",
-    "publish:win": "build --win -p always --config electron-builder.yml",
-    "publish:mac": "build --mac -p always --config electron-builder.yml",
-    "publish:lin": "build --linux -p always --config electron-builder.yml"
-
+        "dist": "npx electron-builder",
+        "publish:win": "build --win -p always --config electron-builder.yml",
+        "publish:mac": "build --mac -p always --config electron-builder.yml",
+        "publish:lin": "build --linux -p always --config electron-builder.yml"
     },
-    "repository": "https://github.com/hajime4th/calendar",
+    "repository": "https://github.com/hajime4th/calendar-widget",
     "keywords": [
         "Electron",
         "quick",
@@ -35,46 +32,19 @@
         "npm": "^6.4.1"
     },
     "build": {
-        "appId": "com.electron.Calendar",
+        "appId": "com.hajime.Calendar-Widget",
         "copyright": "Copyright © 2018 Hajime",
-        "productName": "Calendar",
-        "electronVersion": "3.0.4",
+        "productName": "Calendar-Widget",
+        "electronVersion": "3.0.6",
         "asar": true,
         "directories": {
-            "app": "/Users/hajime/Desktop/Calendar",
+            "app": "C:\\Users\\Hajime\\desktop\\calendarwidget",
             "output": "dist"
         },
         "win": {
             "target": [
                 {
                     "target": "nsis",
-                    "arch": [
-                        "x64"
-                    ]
-                }
-            ]
-        },
-        "mac": {
-            "target": [
-                {
-                    "target": "dmg",
-                    "arch": [
-                        "x64"
-                    ]
-                }
-            ],
-            "category": "public.app-category.utilities"
-        },
-        "linux": {
-            "target": [
-                {
-                    "target": "AppImage",
-                    "arch": [
-                        "x64"
-                    ]
-                },
-                {
-                    "target": "debian package (deb)",
                     "arch": [
                         "x64"
                     ]
