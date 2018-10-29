@@ -22,9 +22,9 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/Hajime4th/Calendar
+git clone https://github.com/Hajime4th/Calendar-widget
 # Go into the repository
-cd calendar
+cd calendar-widget
 # Install dependencies
 npm install
 # Run the app
