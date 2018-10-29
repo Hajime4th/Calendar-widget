@@ -14,7 +14,7 @@
 
 # For Windows
 
-**Download the DMG file from [here](https://github.com/Hajime4th/Calendar-widget/releases), Double click on the DMG file and drag the calendar app to your applications folder.**
+**Download the instller file from [here](https://github.com/Hajime4th/Calendar-widget/releases), Double click on the downloaded file and it will install automatically.**
 
 ## Contribute or Build it yourself
 
