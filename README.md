@@ -1,6 +1,6 @@
 # Calendar Widget
 
-**The same calendar you love only as a widget.**
+**The same calendar you love only as a widget**
 
 ## To do list: 
 
@@ -8,7 +8,15 @@
 
 ## Installation
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+# For Mac
+
+**Download the DMG file from [here](https://github.com/Hajime4th/Calendar/releases), Double click on the DMG file and drag the calendar app to your applications folder.**
+
+# For Windows
+
+## Contribute or Build it yourself
+
+**To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:**
 
 ```bash
 # Clone this repository
@@ -24,5 +32,6 @@ npm start
 
 ## Screenshots
 
-![screen shot 2018-10-25 at 7 13 45 pm](https://user-images.githubusercontent.com/42915482/47514907-27d29a00-d88a-11e8-8fab-81a10616b45d.png)
-![screen shot 2018-10-25 at 7 13 54 pm](https://user-images.githubusercontent.com/42915482/47514909-27d29a00-d88a-11e8-882d-132e9401714e.png)
+
+![screen shot 2018-10-29 at 4 32 20 pm](https://user-images.githubusercontent.com/42915482/47656706-3c6ba680-db98-11e8-9264-729f96b9a609.png)
+![capture](https://user-images.githubusercontent.com/42915482/47643292-b8072c80-db73-11e8-9af9-f9b988c5fac7.PNG)
