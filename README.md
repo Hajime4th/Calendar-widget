@@ -1,10 +1,6 @@
 # Calendar Widget
 
-**The same calendar you love only as a widget**
-
-## To do list: 
-
-**Make a new icon because the current is the android lollipop one.**
+**The same calendar you love only as a widget.**
 
 
 ## Installation
