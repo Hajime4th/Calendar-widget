@@ -6,15 +6,11 @@
 
 **Make a new icon because the current is the android lollipop one.**
 
+
 ## Installation
 
-# For OS X
+**Click [here](https://github.com/Hajime4th/Calendar-widget/releases), and download for the platform you are using.**
 
-**Download the DMG file from [here](https://github.com/Hajime4th/Calendar-widget/releases), Double click on the DMG file and drag the calendar app to your applications folder.**
-
-# For Windows
-
-**Download the instller file from [here](https://github.com/Hajime4th/Calendar-widget/releases), Double click on the downloaded file and it will install automatically.**
 
 ## Contribute or Build it yourself
 
@@ -31,9 +27,10 @@ npm install
 npm start
 ```
            
-
+           
 ## Screenshots
 
 
-![screen shot 2018-10-29 at 4 32 20 pm](https://user-images.githubusercontent.com/42915482/47656706-3c6ba680-db98-11e8-9264-729f96b9a609.png)
-![capture](https://user-images.githubusercontent.com/42915482/47643292-b8072c80-db73-11e8-9af9-f9b988c5fac7.PNG)
+![capture1](https://user-images.githubusercontent.com/42915482/47712159-aee39180-dc3f-11e8-857d-a0f5fadbb455.PNG)
+![screen shot 2018-10-30 at 12 21 46 pm](https://user-images.githubusercontent.com/42915482/47712161-aee39180-dc3f-11e8-9608-974d733d0bea.png)
+
